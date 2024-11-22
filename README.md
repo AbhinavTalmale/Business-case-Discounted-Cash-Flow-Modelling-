@@ -107,4 +107,7 @@
 Your objective is to assess financial data to project future cash flows, calculate their current value, estimate the company's worth at a future point, and determine the present value of both future cash flows and the company's future worth to establish its overall valuation.
   
 ### Dataset:
+[Dataset](https://github.com/AbhinavTalmale/Business-case-Discounted-Cash-Flow-Modelling-/tree/main/Dataset-%20Solved)
 
+### DCF Doc:
+[Doc](https://github.com/AbhinavTalmale/Business-case-Discounted-Cash-Flow-Modelling-/blob/main/Case%20Study%20DCF_Excel.pdf)
